@@ -1,0 +1,7 @@
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\bin\Debug\Auls01Textos.exe.config
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\bin\Debug\Auls01Textos.exe
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\bin\Debug\Auls01Textos.pdb
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\obj\Debug\Auls01Textos.csproj.AssemblyReference.cache
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\obj\Debug\Auls01Textos.csproj.CoreCompileInputs.cache
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\obj\Debug\Auls01Textos.exe
+C:\Users\victor.hsantos45\source\repos\Auls01Textos\Auls01Textos\obj\Debug\Auls01Textos.pdb
